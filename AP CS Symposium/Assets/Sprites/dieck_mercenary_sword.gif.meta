@@ -1,0 +1,1632 @@
+fileFormatVersion: 2
+guid: 422378694aa8d934d98e2a3f947a48b5
+timeCreated: 1520043177
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dieck_mercenary_sword_0
+    21300002: dieck_mercenary_sword_1
+    21300004: dieck_mercenary_sword_2
+    21300006: dieck_mercenary_sword_3
+    21300008: dieck_mercenary_sword_4
+    21300010: dieck_mercenary_sword_5
+    21300012: dieck_mercenary_sword_6
+    21300014: dieck_mercenary_sword_7
+    21300016: dieck_mercenary_sword_8
+    21300018: dieck_mercenary_sword_9
+    21300020: dieck_mercenary_sword_10
+    21300022: dieck_mercenary_sword_11
+    21300024: dieck_mercenary_sword_12
+    21300026: dieck_mercenary_sword_13
+    21300028: dieck_mercenary_sword_14
+    21300030: dieck_mercenary_sword_15
+    21300032: dieck_mercenary_sword_16
+    21300034: dieck_mercenary_sword_17
+    21300036: dieck_mercenary_sword_18
+    21300038: dieck_mercenary_sword_19
+    21300040: dieck_mercenary_sword_20
+    21300042: dieck_mercenary_sword_21
+    21300044: dieck_mercenary_sword_22
+    21300046: dieck_mercenary_sword_23
+    21300048: dieck_mercenary_sword_24
+    21300050: dieck_mercenary_sword_25
+    21300052: dieck_mercenary_sword_26
+    21300054: dieck_mercenary_sword_27
+    21300056: dieck_mercenary_sword_28
+    21300058: dieck_mercenary_sword_29
+    21300060: dieck_mercenary_sword_30
+    21300062: dieck_mercenary_sword_31
+    21300064: dieck_mercenary_sword_32
+    21300066: dieck_mercenary_sword_33
+    21300068: dieck_mercenary_sword_34
+    21300070: dieck_mercenary_sword_35
+    21300072: dieck_mercenary_sword_36
+    21300074: dieck_mercenary_sword_37
+    21300076: dieck_mercenary_sword_38
+    21300078: dieck_mercenary_sword_39
+    21300080: dieck_mercenary_sword_40
+    21300082: dieck_mercenary_sword_41
+    21300084: dieck_mercenary_sword_42
+    21300086: dieck_mercenary_sword_43
+    21300088: dieck_mercenary_sword_44
+    21300090: dieck_mercenary_sword_45
+    21300092: dieck_mercenary_sword_46
+    21300094: dieck_mercenary_sword_47
+    21300096: dieck_mercenary_sword_48
+    21300098: dieck_mercenary_sword_49
+    21300100: dieck_mercenary_sword_50
+    21300102: dieck_mercenary_sword_51
+    21300104: dieck_mercenary_sword_52
+    21300106: dieck_mercenary_sword_53
+    21300108: dieck_mercenary_sword_54
+    21300110: dieck_mercenary_sword_55
+    21300112: dieck_mercenary_sword_56
+    21300114: dieck_mercenary_sword_57
+    21300116: dieck_mercenary_sword_58
+    21300118: dieck_mercenary_sword_59
+    21300120: dieck_mercenary_sword_60
+    21300122: dieck_mercenary_sword_61
+    21300124: dieck_mercenary_sword_62
+    21300126: dieck_mercenary_sword_63
+    21300128: dieck_mercenary_sword_64
+    21300130: dieck_mercenary_sword_65
+    21300132: dieck_mercenary_sword_66
+    21300134: dieck_mercenary_sword_67
+    21300136: dieck_mercenary_sword_68
+    21300138: dieck_mercenary_sword_69
+    21300140: dieck_mercenary_sword_70
+    21300142: dieck_mercenary_sword_71
+    21300144: dieck_mercenary_sword_72
+    21300146: dieck_mercenary_sword_73
+    21300148: dieck_mercenary_sword_74
+    21300150: dieck_mercenary_sword_75
+    21300152: dieck_mercenary_sword_76
+    21300154: dieck_mercenary_sword_77
+    21300156: dieck_mercenary_sword_78
+    21300158: dieck_mercenary_sword_79
+    21300160: dieck_mercenary_sword_80
+    21300162: dieck_mercenary_sword_81
+    21300164: dieck_mercenary_sword_82
+    21300166: dieck_mercenary_sword_83
+    21300168: dieck_mercenary_sword_84
+    21300170: dieck_mercenary_sword_85
+    21300172: dieck_mercenary_sword_86
+    21300174: dieck_mercenary_sword_87
+    21300176: dieck_mercenary_sword_88
+    21300178: dieck_mercenary_sword_89
+    21300180: dieck_mercenary_sword_90
+    21300182: dieck_mercenary_sword_91
+    21300184: dieck_mercenary_sword_92
+    21300186: dieck_mercenary_sword_93
+    21300188: dieck_mercenary_sword_94
+    21300190: dieck_mercenary_sword_95
+    21300192: dieck_mercenary_sword_96
+    21300194: dieck_mercenary_sword_97
+    21300196: dieck_mercenary_sword_98
+    21300198: dieck_mercenary_sword_99
+    21300200: dieck_mercenary_sword_100
+    21300202: dieck_mercenary_sword_101
+    21300204: dieck_mercenary_sword_102
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 451
+        width: 28
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 485
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 490
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 499
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 512
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 512
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 517
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 516
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 520
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_9
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 519
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 509
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 451
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 451
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 451
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 452
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_15
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 453
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 453
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 453
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_18
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 453
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 453
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 454
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_21
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 455
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_22
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 455
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_23
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 456
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 384
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_25
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 380
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 370
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 367
+        width: 26
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_28
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 349
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_29
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 374
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_30
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 354
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_31
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 354
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 353
+        width: 31
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 348
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_35
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 349
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 350
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 353
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_38
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 352
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_39
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 348
+        width: 25
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 303
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_41
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 306
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 303
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_43
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 299
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_44
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 274
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_45
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 272
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_46
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 267
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 264
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_48
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 264
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 265
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_50
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 265
+        width: 17
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 265
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_52
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 266
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_53
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 267
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_54
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 233
+        width: 12
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_55
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 219
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 184
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_57
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 184
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_58
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 184
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_59
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 183
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_60
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 183
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_61
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 184
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_62
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 184
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_63
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 185
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_64
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 185
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 184
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_66
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 185
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_67
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 185
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_68
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 184
+        width: 25
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_69
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 185
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_70
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 125
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_71
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 137
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_72
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 153
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_73
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 156
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_74
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 156
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_75
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 150
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_76
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 154
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_77
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 152
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_78
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 85
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_79
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 86
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_80
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 86
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_81
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 86
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_82
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 86
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_83
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 86
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_84
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 86
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_85
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 86
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_86
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 14
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_87
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 12
+        width: 22
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_88
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 14
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_89
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 14
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_90
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 19
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_91
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 22
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_92
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 19
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_93
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 19
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_94
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 19
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_95
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 19
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_96
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 19
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_97
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 19
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_98
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 19
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_99
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 19
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_100
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 19
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_101
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 19
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dieck_mercenary_sword_102
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 19
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
