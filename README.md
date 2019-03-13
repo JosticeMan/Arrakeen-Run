@@ -1,2 +1,2 @@
 # Arrakeen-Run
-AP CSA CS Symposium Project
+Simple Endless Runner that can be played with multiple people. 
